@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kevin</h1>
-<h3 align="center">A passionate full stack developer from London</h3>
+<h3 align="center">A Junior developer from London</h3>
 
 - 👀 I’m interested in **Junior Developer Roles**
 
