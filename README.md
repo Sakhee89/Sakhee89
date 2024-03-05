@@ -3,7 +3,9 @@
 
 - 👀 I’m interested in **Junior Developer Roles**
 
-- 🌱 I’m currently learning **JavaScript, TypeScript, React, Node.js, Express, Vue.js, PostgreSQL, Jest**
+- 🌱 I’m currently learning **TypeScript**
+
+- ✅ I have worked with **JavaScript, React, React Native, HTML, CSS, Node.js, Express.js, Vue.js, SQL, PSQL and MongoDB**
 
 - 👯 I’m looking to collaborate on **open source projects**
 
