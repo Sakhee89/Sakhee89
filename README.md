@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **TypeScript**
 
-- ✅ I have worked with **JavaScript, React, React Native, HTML, CSS, Node.js, Express.js, Vue.js, SQL, PSQL and MongoDB**
+- ✅ I have worked with **JavaScript, TypeScript, Python, React, HTML, CSS, Node.js, Express.js, Vue.js, SQL, PSQL and MongoDB**
 
 - 👯 I’m looking to collaborate on **open source projects**
 
